@@ -1,7 +1,7 @@
 # Xgboost ile  Enerji tüketimi Time Series Analizi 
 
  
-  ├─ Hourly Load Data.csv
+  |─ Hourly Load Data.csv
   |─ model.ipynb
 
     |─Data Preview
