@@ -40,4 +40,4 @@
 * Model tarafından acıklanamayan gözlemlerdeki değişkenlik.Genellikle bunları egale etmek için çalışırız.
 
 
- ** NOT : model notebook içerisinde analizin detayları anlatılmıştır.
+ `NOT` : `model.ipynb` notebook içerisinde analizin detayları anlatılmıştır.
