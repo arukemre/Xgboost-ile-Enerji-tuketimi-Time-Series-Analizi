@@ -6,6 +6,7 @@
     
         |─ Data Preview
         |─ Data preprocessing
+        |─ Data visualization
         |─ Data preprocessing  and Feature Engineering stages
         |─ XGBOOST MODEL
         |─ Model optimization with optuna
