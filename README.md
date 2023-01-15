@@ -3,7 +3,7 @@
 
     |─ Hourly Load Data.csv
     |─ model.ipynb
-    |─ README
+    
         |─ Data Preview
         |─ Data preprocessing
         |─ Data preprocessing  and Feature Engineering stages
@@ -40,4 +40,4 @@
 * Model tarafından acıklanamayan gözlemlerdeki değişkenlik.Genellikle bunları egale etmek için çalışırız.
 
 
-  
+ ** NOT : model notebook içerisinde analizin detayları anlatılmıştır.
