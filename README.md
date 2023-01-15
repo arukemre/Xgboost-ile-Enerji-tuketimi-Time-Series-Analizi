@@ -3,6 +3,7 @@
 
     |─ Hourly Load Data.csv
     |─ model.ipynb
+    |─ README
         |─ Data Preview
         |─ Data preprocessing
         |─ Data preprocessing  and Feature Engineering stages
