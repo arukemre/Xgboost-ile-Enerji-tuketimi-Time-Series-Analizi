@@ -17,7 +17,7 @@
     - matplotlib,seaborn
     - optuna
     - scikit-learn
-    - openxl 
+    - openpyxl 
     - datetime 
 
 * Bu repository de  1999 ve  2001 yılları arasında  Enerji tüketimi verileri analiz edilmiştir.
