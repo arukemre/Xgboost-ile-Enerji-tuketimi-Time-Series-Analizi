@@ -1,9 +1,7 @@
 # Xgboost ile  Enerji tüketimi Time Series Analizi 
 
- 
-  |─ Hourly Load Data.csv
-  |─ model.ipynb
-   
+|─ Hourly Load Data.csv
+|─ model.ipynb
     |─ Data Preview
     |─ Data preprocessing
     |─ Data preprocessing  and Feature Engineering stages
