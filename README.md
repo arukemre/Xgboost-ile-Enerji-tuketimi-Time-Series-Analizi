@@ -1,4 +1,4 @@
-# Xgboost ile Time Series Analiz | Enerji tüketimi Time Series Analizi 
+# Xgboost ile  Enerji tüketimi Time Series Analizi 
 
  
   ├─ Hourly Load Data.csv
