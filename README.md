@@ -1,12 +1,13 @@
 # Xgboost ile  Enerji tüketimi Time Series Analizi 
 
-|─ Hourly Load Data.csv
-|─ model.ipynb
-    |─ Data Preview
-    |─ Data preprocessing
-    |─ Data preprocessing  and Feature Engineering stages
-    |─ XGBOOST MODEL
-    |─ Model optimization with optuna
+
+    |─ Hourly Load Data.csv
+    |─ model.ipynb
+        |─ Data Preview
+        |─ Data preprocessing
+        |─ Data preprocessing  and Feature Engineering stages
+        |─ XGBOOST MODEL
+        |─ Model optimization with optuna
     
     
  ## Gerekli kütüphaneler ve kurulumlar
